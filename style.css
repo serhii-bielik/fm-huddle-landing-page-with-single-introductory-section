@@ -1,0 +1,23 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --ff-heading: 'Poppins', sans-serif;
+  --ff-body: 'Open Sans', sans-serif;
+
+  --clr-white: #ffffff;
+  --clr-bg: #674baf;
+  --clr-active: #e882e8;
+}
+
+body {
+  font-family: var(--ff-body);
+  font-weight: 400;
+  color: var(--clr-white);
+  background-color: var(--clr-bg);
+}
