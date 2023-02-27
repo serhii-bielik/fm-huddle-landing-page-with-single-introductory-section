@@ -100,6 +100,7 @@ body {
 }
 
 .socials__icon {
+  color: var(--clr-white);
   padding: 0.5rem;
   width: 1.4rem;
   height: 1.4rem;
