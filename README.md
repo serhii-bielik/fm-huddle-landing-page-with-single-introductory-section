@@ -10,4 +10,5 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Screenshots
 
 ![](./screenshot-desktop.png)
+![](./screenshot-desktop2.png)
 ![](./screenshot-mobile.png)
